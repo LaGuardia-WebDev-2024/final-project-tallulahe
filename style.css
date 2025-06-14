@@ -31,6 +31,11 @@ ul.nav li a {
   padding: 12px 16px;
   text-decoration: none;
 }
+.anton-sc-regular {
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 ul.nav li a:hover:not(.active) {
   background-color: pink;
@@ -43,3 +48,6 @@ ul.nav .active {
 h1 {
   width: 100%;
 }
+link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton+SC&family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Jersey+15&family=Savate:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
